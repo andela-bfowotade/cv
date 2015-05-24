@@ -1,0 +1,52 @@
+.img-me {
+  width: 200px;
+  height: 250px;
+}
+
+#feature {
+  clear: both;
+  height: 53 1px;
+  overflow: hidden;
+  margin: 0 0 48px 0;
+}
+
+#feature h4 {
+  text-decoration: underline;
+  width: 316px;
+  height: 10px;
+  margin: 0 0 51px 0;
+}
+
+#feature img {
+  float: right;
+  margin: 22px 0 0 0;
+}
+
+#feature-info {
+  float: left;
+  width: 470px;
+  margin: -25px 0 0 100px;
+}
+
+#feature-info p {
+  margin: 0 0 20px 0;
+  font-size: 18px;
+}
+
+.feature-section-2 p {
+  font-size: 30px;
+}
+
+.circular {
+  width: 250px;
+  height: 250px;
+  border-radius: 125px;
+  -webkit-border-radius: 125px;
+  -moz-border-radius: 125px;
+  background: url(../img/bugs.png) no-repeat;
+}
+
+.project-h4 {
+  float: left;
+  display: inline;
+}
